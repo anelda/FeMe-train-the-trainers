@@ -10,7 +10,7 @@ For each factual claim or statement that could be verified:
 
 ### If the content is clearly correct
 
-Add a reference using the **references** skill if the claim is the kind that could be challenged or questioned — for example, specific dates, percentages, named effects, attributed quotes, or causal claims. General knowledge (e.g. "practice helps learning") does not need a reference, but specific claims (e.g. "spaced repetition improves retention by 50%") do.
+Add a reference if the claim is the kind that could be challenged or questioned — for example, specific dates, percentages, named effects, attributed quotes, or causal claims. General knowledge (e.g. "practice helps learning") does not need a reference, but specific claims (e.g. "spaced repetition improves retention by 50%") do.
 
 There might be a common misunderstanding worth pointing out to readers. Offer to include a brief note on the common misconception.
 
@@ -29,10 +29,13 @@ If any section contains placeholders like "todo: add information on X":
 2. Write the content following the **voice-and-tone** skill
 3. Include references using the **references** skill
 
+## Reference format
+
+Follow the **references** skill for all inline citations and the bottom references section.
+
 ## In all cases
 
 - Web research is required — do not rely on assumptions
-- References must follow the **references** skill (TASL format)
 - Do not invent research findings or statistics
 - Every challengeable fact must have a reference. A "challengeable fact" is any claim a skeptical reader might ask "source?" about — specific numbers, dates, effect sizes, named studies, attributed ideas, or causal statements. If you cannot find a credible source for a claim, flag it to the user rather than leaving it unreferenced.
 - Write the final output to `2-fact-checked.md`

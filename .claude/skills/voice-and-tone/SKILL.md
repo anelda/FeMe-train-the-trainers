@@ -1,6 +1,5 @@
 ---
 description: Voice and tone guide for the "Teaching for Impact" workbook. Apply this style to all written content — prose, examples, callout boxes, and headings.
-user-invocable: false
 ---
 
 This workbook — *Teaching for Impact: Designing Effective & Open Training* — is written for researchers, academics, and practitioners running their own training programmes. They are educated professionals encountering pedagogy and instructional design for the first time. Match this voice consistently throughout all content:
@@ -24,6 +23,7 @@ This workbook — *Teaching for Impact: Designing Effective & Open Training* —
 - Academic hedging ("It could be argued…", "Research suggests…") unless citing a specific source
 - Lists that substitute for explanation — use prose when ideas connect; use bullets only for genuinely enumerable items
 - Motivational padding ("This is so important!", "You've got this!") — let the content speak
+- Academic he-said-she-saids. References are important but they are not the star of the show. We add references in order to add credibility, not because we want to look fancy. There is a good chance people wont even check them. Focus on creating a narrative that helps our learners LEARN what they need to and have confidence. Keep the main thing the main thing!
 
 ---
 **Structure** 
