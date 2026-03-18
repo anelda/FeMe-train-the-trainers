@@ -49,3 +49,11 @@ Input: 7-readings.md
 Output: 8-complete.md
 Final consistency pass across the whole chapter: check formatting, terminology, tone, and cross-references.
 
+# Some extra commands for bulletproofing
+
+## /check-outcomes
+Input: 8-complete.md
+Read over the session 1 content on designing content (05. designing-content)
+Then:
+
+
