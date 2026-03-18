@@ -6,11 +6,12 @@
 | | - How do you make a course challenging enough to be effective without pushing learners past what they can handle? |
 | | - What common study habits feel productive but actually don't work? |
 | | - How can you structure a course so that repetition happens naturally, without boring your learners? |
-| **Learning outcomes** | - Explain how working memory and long-term memory interact, and why understanding something in a session doesn't guarantee learners will remember it later. |
+| **Learning outcomes** | - Explain how working memory and long-term memory interact, and apply this understanding to identify gaps in a course where learning may not stick. |
 | | - Identify teaching practices that may create an illusion of competence in learners. |
 | | - Describe how spaced repetition and retrieval practice strengthen long-term retention, and design activities that use both. |
 | | - Distinguish between the debunked "learning styles" model and the evidence-based benefits of multimedia learning. |
-| | - Recognise when memorisation is the right starting point and when leading with understanding is more effective. |
+| | - Apply the zone of proximal development to evaluate whether course exercises are appropriately challenging for the target audience. |
+| | - Evaluate when memorisation is the right starting point and when leading with understanding is more effective. |
 
 # How People Learn
 
@@ -146,7 +147,7 @@ Research consistently shows that spacing study across multiple sessions is far m
 
 ### Activity: Map the repetition in your programme
 
-Take your course outline or syllabus and pick your three most important concepts. For each one, mark every point in the programme where learners encounter that concept — whether through a lecture, an exercise, a discussion, or an assessment.
+Take your course outline or syllabus and pick your three most important concepts. If you don't yet have a full outline, a rough list of your key topics and sessions is enough for this exercise. For each concept, mark every point in the programme where learners encounter it — whether through a lecture, an exercise, a discussion, or an assessment.
 
 How many encounters does each concept get? Are they spaced out, or clustered together? If a concept only appears once, brainstorm one way to bring it back later in the programme. Even a brief recap question at the start of a later session counts.
 
@@ -161,6 +162,12 @@ Pulling knowledge out of memory is much harder. It uses your brain differently a
 | REMEMBER | *Familiarity is not the same as knowledge. When material feels easy to recognise, learners often assume they know it — but they can't recall it when it matters. Re-reading and highlighting feel productive but are among the least effective study strategies.* |
 | :---- | :---- |
 
+### Activity: Spot the illusion of competence
+
+Look at your current course or programme. Find two moments where a learner might walk away feeling confident without having been genuinely tested — for example, a section that ends with a clear explanation but no retrieval activity, or a demonstration that learners watch but never try themselves.
+
+For each one, write down: (1) why a learner might *feel* they've mastered the material at that point, and (2) one change you could make to reveal whether they actually have.
+
 ### Activity: Test yourself
 
 Without looking back at the earlier sections, try to answer these questions from memory:
@@ -171,7 +178,7 @@ Without looking back at the earlier sections, try to answer these questions from
 
 Now check your answers against the text. Were there gaps between what you thought you knew and what you could actually recall? That gap is the illusion of competence in action — and the act of trying to recall just now was retrieval practice, which strengthens your memory of these concepts going forward.
 
-Since so many learners focus on low-utility learning strategies, it's worth asking: is it an educator's responsibility to guide learners towards effective strategies? We think so — and the techniques in this chapter give you a starting point.
+Many learners default to low-utility strategies because no one has shown them anything better. Think about your own course: what's one thing you could do — a brief explanation, a handout, a moment in your first session — to point your learners towards more effective study habits? Write it down.
 
 ### Recall
 
@@ -270,7 +277,7 @@ Pick one concept from your course that you currently deliver in a single format 
 
 Brainstorm two additional ways learners could engage with the same concept using a different medium. For example: if you currently explain it verbally, could you add a diagram or a short hands-on exercise? If it's a reading, could learners discuss it in pairs or apply it to a case study?
 
-Write down your three formats (original + two new ones). The goal isn't to cater to "learning styles" — it's to give learners multiple passes at the same idea through different cognitive pathways.
+Write down your three formats (original + two new ones). Before you move on, write one sentence explaining *why* you're diversifying the medium — and why this is different from catering to "learning styles." The goal isn't to match a learner's preference; it's to give learners multiple passes at the same idea through different cognitive pathways.
 
 ## When memorisation is the right tool
 

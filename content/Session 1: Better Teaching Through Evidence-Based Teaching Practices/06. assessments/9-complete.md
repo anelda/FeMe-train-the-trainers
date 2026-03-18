@@ -8,9 +8,9 @@
 | | - When does a multiple-choice question help learning, and when does it get in the way? |
 | **Learning outcomes** | - Design assessments that reveal where learners are struggling, rather than simply ranking them. |
 | | - Distinguish between signal and noise in assessment results, and adjust your design to reduce noise. |
-| | - Explain why frequent, low-stakes assessment supports learning more effectively than a single high-stakes exam. |
-| | - Recognise the difference between recall and recognition, and choose assessment formats accordingly. |
-| | - Identify how test anxiety affects learners and apply practical strategies to reduce it. |
+| | - Plan frequent, low-stakes assessment points across a training programme, based on evidence that spacing supports learning more effectively than a single high-stakes exam. |
+| | - Evaluate the difference between recall and recognition, and justify your choice of assessment format. |
+| | - Draft a transparent assessment introduction that reduces test anxiety, drawing on evidence about how anxiety affects learner performance. |
 
 # Assessment
 
@@ -72,7 +72,9 @@ Here are practical principles for designing assessments that genuinely help your
 
 ### Activity: Recognition vs. recall
 
-Choose one key concept from your training. Write a multiple-choice question that tests it, then write a short-answer question that tests the same concept. Compare the two: what does a correct answer on each version actually prove? Could someone get the multiple-choice version right by elimination alone, without truly understanding the material? Now decide which format — or which combination — you would actually use in your training, and why.
+Choose one key concept from your training (for example, if you are teaching data ethics, your concept might be "informed consent"). Write a multiple-choice question that tests it, then write a short-answer question that tests the same concept. Compare the two: what does a correct answer on each version actually prove? Could someone get the multiple-choice version right by elimination alone, without truly understanding the material? Now decide which format — or which combination — you would actually use in your training, and why.
+
+The question of *when* to assess matters as much as *how*.
 
 ### Activity: Map your assessment points
 

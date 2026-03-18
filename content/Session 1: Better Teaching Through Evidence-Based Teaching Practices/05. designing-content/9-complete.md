@@ -6,10 +6,11 @@
 | | - How do you decide what to cut when everything feels important? |
 | | - What mistakes do experienced trainers keep making when they design content? |
 | **Learning outcomes** | After working through this section, you will be able to: |
-| | - Explain the backward design process and why it produces more focused training than starting with content. |
+| | - Apply the backward design process to plan a focused training session, and explain why it produces more focused training than starting with content. |
 | | - Write learning objectives that are observable, measurable, and pitched at the right level of thinking. |
 | | - Identify misalignment between objectives, activities, and assessments in a training plan. |
-| | - Sequence content so that each piece builds on what came before, including deciding when productive struggle is more effective than gradual progression. |
+| | - Analyse the dependencies between topics in a training session to sequence content effectively, and evaluate when productive struggle is more effective than gradual progression. |
+| | - Evaluate an existing open educational resource for alignment with your learning objectives and learner level. |
 | | - Evaluate whether a session's content is focused enough to support real learning, and remove what does not serve the objectives. |
 
 # Designing Content

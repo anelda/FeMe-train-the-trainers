@@ -6,10 +6,11 @@
 | | - What makes a learning environment feel safe enough for someone to admit they are stuck? |
 | | - How might you be unintentionally discouraging learners without realising it? |
 | | - What does it take for a struggling learner to ask for help — and what stops them? |
-| **Learning outcomes** | - Explain how growth mindset shapes learners' responses to difficulty, and distinguish it from the common "just try harder" misconception. |
-| | - Recognise when struggle and stress are productive for learning and design activities that use productive failure and desirable difficulties deliberately. |
+| **Learning outcomes** | - Apply growth mindset principles when responding to learners, distinguishing process-focused feedback from effort-only praise. |
+| | - Recognise when struggle and stress are productive for learning and reframe difficulty as a normal part of the learning process. |
+| | - Design activities that use productive failure and desirable difficulties deliberately. |
 | | - Identify the three psychological needs that sustain motivation in adult learners and apply them to your own training design. |
-| | - Describe practical steps for building a psychologically safe learning environment where learners feel able to take risks and ask questions. |
+| | - Apply practical strategies for building a psychologically safe learning environment where learners feel able to take risks and ask questions. |
 | | - Adjust how you frame challenges, respond to mistakes, and give feedback to support both mindset and motivation. |
 
 # Mindsets for students
@@ -90,6 +91,8 @@ This is not about pretending stress doesn't exist or pushing people to breaking 
 ### Activity: Reframe stress in your own words
 
 Think of a moment in your training where learners typically show visible stress — perhaps when facing a hands-on exercise for the first time, presenting to the group, or tackling a problem set. Write down two or three sentences you could say at that moment to help learners reframe the stress as a normal and useful part of learning. Avoid generic reassurance ("Don't worry, you'll be fine"). Instead, connect the discomfort to what is actually happening in their learning — for example: "If this feels uncomfortable, it's because you're working at the edge of what you know. That's exactly where learning happens."
+
+Now think about how you currently handle that same moment. Do you tend to soften it — reassuring learners, reducing the difficulty, or moving on quickly? Identify one specific point where you usually try to *remove* the stress, and write down how you would instead *reframe* it. What would you say or do differently to help learners sit with the discomfort and use it?
 
 ### How does this relate to growth mindset?
 

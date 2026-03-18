@@ -5,10 +5,10 @@
 | | - What should you do when a learner is struggling and you don't know why? |
 | | - How can low-stakes checks on understanding help you as much as they help your learners? |
 | | - When is it worth resisting the urge to jump straight to a solution? |
-| **Learning outcomes** | - Explain how a growth mindset applies to your own development as an educator, not just to your learners. |
-| | - Identify why common feedback sources (such as end-of-term results) are often too slow or too noisy to guide your teaching. |
-| | - Describe how frequent, low-stakes checks on understanding create a faster feedback loop for both you and your learners. |
-| | - Recognise the role of the curse of knowledge and illusions of competence in your own teaching practice. |
+| **Learning outcomes** | - Apply a growth mindset to your own development as an educator, not just to your learners. |
+| | - Evaluate why your current feedback sources may be too slow or too noisy to effectively guide your teaching. |
+| | - Design a low-stakes check on understanding that creates a faster feedback loop for both you and your learners. |
+| | - Analyse how the curse of knowledge shapes your own teaching practice. |
 | | - Design a simple diagnostic approach to uncover where a struggling learner's understanding breaks down before choosing an intervention. |
 
 ## The growth mindset
@@ -90,12 +90,12 @@ Throughout this process, protect the learner's confidence. Be transparent about 
 
 ### Activity: Walk through a diagnosis
 
-Think of a concept in your training that learners commonly find difficult. Break it into three to five smaller building blocks — the pieces someone needs to understand before the full concept makes sense. For each building block, write one question you could ask to check whether a learner has grasped it. Now imagine a learner who answers the first two correctly but stumbles on the third. Write down what you would say to them and what you would try next. Practice the full sequence: check, locate the gap, intervene, then check again.
+Think of a concept in your training that learners commonly find difficult. Break it into three to five smaller building blocks — the pieces someone needs to understand before the full concept makes sense. For each building block, write one question you could ask to check whether a learner has grasped it. Now imagine a learner who answers the first two correctly but stumbles on the third. Write down what you would say to them and what you would try next. Plan each step in writing: check, locate the gap, intervene, then check again.
 
 ## Reflection
 
 - Which of the mindsets discussed in this chapter are useful for learners?
-- How might the learners in your course adopt the "taking personal responsibility" mindset?
+- How could you encourage your learners to self-assess their own understanding and actively seek out knowledge they are missing?
 
 ---
 
