@@ -6,12 +6,13 @@
 | | - What makes a learning environment feel safe enough for someone to admit they are stuck? |
 | | - How might you be unintentionally discouraging learners without realising it? |
 | | - What does it take for a struggling learner to ask for help — and what stops them? |
-| **Learning outcomes** | - Apply growth mindset principles when responding to learners, distinguishing process-focused feedback from effort-only praise. |
-| | - Recognise when struggle and stress are productive for learning and reframe difficulty as a normal part of the learning process. |
+| **Learning outcomes** | - Apply growth mindset principles when responding to learners in the moment, distinguishing process-focused feedback from effort-only praise. |
+| | - Apply an understanding of productive struggle and the stress-is-enhancing mindset to reframe difficulty as a normal part of the learning process. |
 | | - Design activities that use productive failure and desirable difficulties deliberately. |
-| | - Identify the three psychological needs that sustain motivation in adult learners and apply them to your own training design. |
-| | - Apply practical strategies for building a psychologically safe learning environment where learners feel able to take risks and ask questions. |
-| | - Adjust how you frame challenges, respond to mistakes, and give feedback to support both mindset and motivation. |
+| | - Identify the psychological factors that sustain motivation — including autonomy, competence, relatedness, and perceived relevance — and apply them to your own training design. |
+| | - Design the structural elements of a psychologically safe learning environment — including participation methods, question channels, and strategies for engaging all learners. |
+| | - Adjust how you frame challenges and respond to mistakes in the moment so that learners interpret difficulty as a normal part of learning. |
+| | - Give specific, process-focused feedback on learner work that highlights progress and strategies used, supporting both growth mindset and motivation. |
 
 # Mindsets for students
 
@@ -92,7 +93,7 @@ This is not about pretending stress doesn't exist or pushing people to breaking 
 
 Think of a moment in your training where learners typically show visible stress — perhaps when facing a hands-on exercise for the first time, presenting to the group, or tackling a problem set. Write down two or three sentences you could say at that moment to help learners reframe the stress as a normal and useful part of learning. Avoid generic reassurance ("Don't worry, you'll be fine"). Instead, connect the discomfort to what is actually happening in their learning — for example: "If this feels uncomfortable, it's because you're working at the edge of what you know. That's exactly where learning happens."
 
-Now think about how you currently handle that same moment. Do you tend to soften it — reassuring learners, reducing the difficulty, or moving on quickly? Identify one specific point where you usually try to *remove* the stress, and write down how you would instead *reframe* it. What would you say or do differently to help learners sit with the discomfort and use it?
+Now think about how you currently handle that same moment. Do you tend to soften it — reassuring learners, reducing the difficulty, or moving on quickly? Identify one specific point where you usually try to *remove* the stress, and in two or three sentences describe how you would instead *reframe* it. What would you say or do differently to help learners sit with the discomfort and use it?
 
 ### How does this relate to growth mindset?
 
@@ -127,7 +128,7 @@ When these needs are met, learners develop **intrinsic motivation** — they eng
 
 ### Activity: Audit your training for autonomy, competence, and relatedness
 
-Take one session or module from your own training and review it against the three needs from Self-Determination Theory. For each need, write down one specific thing you already do that supports it, and one concrete change you could make to strengthen it. For example:
+Take one session or module from your own training and review it against the three needs from Self-Determination Theory. For each need, write down one specific thing you already do that supports it, and one concrete change you could make to strengthen it — aim for one or two sentences each. For example:
 
 - **Autonomy:** Do learners get to make any choices — about which problems to work on, how to approach a task, or what to focus on? If not, where could you introduce a choice point?
 - **Competence:** How do learners know they are making progress? Is there a moment where they can see their own improvement, or do they only find out during a final assessment?

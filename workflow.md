@@ -51,9 +51,14 @@ Final consistency pass across the whole chapter: check formatting, terminology, 
 
 # Some extra commands for bulletproofing
 
-## /check-outcomes
+## /harden-outcomes
 Input: 8-complete.md
-Read over the session 1 content on designing content (05. designing-content)
-Then:
+Output: 8-complete.md
+Make a map of outcomes, exercises and their bloom levels and make sure there are no gaps or misalignments
 
+
+## harden-workshop-activities
+
+Input: workshop-activities.md
+Output: workshop-activities.md
 

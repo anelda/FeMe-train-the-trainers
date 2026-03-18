@@ -2,123 +2,109 @@
 
 ## Outcomes → Exercises
 
-### Outcome 1: Explain how growth mindset shapes learners' responses to difficulty, and distinguish it from the common "just try harder" misconception.
-- **Bloom's level:** Understand (verbs: explain, distinguish)
-- **Exercise:** Rewrite your praise — Bloom's level: Apply
-- **Exercise:** Reflection (growth mindset) — Bloom's level: Analyse
+### Outcome 1: Apply growth mindset principles when responding to learners in the moment, distinguishing process-focused feedback from effort-only praise.
+- **Bloom's level:** Apply (verb: *apply*, *distinguishing*)
+- **Exercise:** Activity: Rewrite your praise — Bloom's level: Analyse
+- **Exercise:** Reflection: growth mindset — Bloom's level: Understand
 
-### Outcome 2: Recognise when struggle and stress are productive for learning and design activities that use productive failure and desirable difficulties deliberately.
-- **Bloom's level:** Create (verb: design) — note: also contains "recognise" (Understand), but the higher verb governs
-- **Exercise:** Design a productive failure moment — Bloom's level: Create
-- **Exercise:** Reframe stress in your own words — Bloom's level: Apply
+### Outcome 2: Apply an understanding of productive struggle and the stress-is-enhancing mindset to reframe difficulty as a normal part of the learning process.
+- **Bloom's level:** Apply (verb: *apply*, *reframe*)
+- **Exercise:** Activity: Reframe stress in your own words — Bloom's level: Apply
+- **Exercise:** Activity: Design a productive failure moment — Bloom's level: Create
 
-### Outcome 3: Identify the three psychological needs that sustain motivation in adult learners and apply them to your own training design.
-- **Bloom's level:** Apply (verbs: identify, apply)
-- **Exercise:** Audit your training for autonomy, competence, and relatedness — Bloom's level: Analyse
-- **Exercise:** Make the "why" visible — Bloom's level: Apply
-- **Exercise:** Reflection (motivation) — Bloom's level: Analyse
+### Outcome 3: Design activities that use productive failure and desirable difficulties deliberately.
+- **Bloom's level:** Create (verb: *design*)
+- **Exercise:** Activity: Design a productive failure moment — Bloom's level: Create
 
-### Outcome 4: Describe practical steps for building a psychologically safe learning environment where learners feel able to take risks and ask questions.
-- **Bloom's level:** Understand (verb: describe)
-- **Exercise:** Analyse the case study — Bloom's level: Analyse
-- **Exercise:** Review your framing — Bloom's level: Analyse
-- **Exercise:** Plan your response to the first mistake — Bloom's level: Create
+### Outcome 4: Identify the psychological factors that sustain motivation — including autonomy, competence, relatedness, and perceived relevance — and apply them to your own training design.
+- **Bloom's level:** Understand (verb: *identify*) / Apply (verb: *apply*)
+- **Exercise:** Activity: Audit your training for autonomy, competence, and relatedness — Bloom's level: Evaluate
+- **Exercise:** Activity: Make the "why" visible — Bloom's level: Create
+- **Exercise:** Reflection: motivation — Bloom's level: Understand
 
-### Outcome 5: Adjust how you frame challenges, respond to mistakes, and give feedback to support both mindset and motivation.
-- **Bloom's level:** Apply (verb: adjust)
-- **Exercise:** Rewrite your praise — Bloom's level: Apply
-- **Exercise:** Reframe stress in your own words — Bloom's level: Apply
-- **Exercise:** Map the progress your learners miss — Bloom's level: Apply
-- **Exercise:** Review your framing — Bloom's level: Analyse
-- **Exercise:** Plan your response to the first mistake — Bloom's level: Create
+### Outcome 5: Design the structural elements of a psychologically safe learning environment — including participation methods, question channels, and strategies for engaging all learners.
+- **Bloom's level:** Create (verb: *design*)
+- **Exercise:** Activity: Review your framing — Bloom's level: Analyse
+- **Exercise:** Activity: Plan your response to the first mistake — Bloom's level: Create
+- **Exercise:** Activity: Analyse the case study — Bloom's level: Analyse
+
+### Outcome 6: Adjust how you frame challenges and respond to mistakes in the moment so that learners interpret difficulty as a normal part of learning.
+- **Bloom's level:** Apply (verb: *adjust*)
+- **Exercise:** Activity: Review your framing — Bloom's level: Analyse
+- **Exercise:** Activity: Plan your response to the first mistake — Bloom's level: Create
+- **Exercise:** Activity: Map the progress your learners miss — Bloom's level: Apply
+
+### Outcome 7: Give specific, process-focused feedback on learner work that highlights progress and strategies used, supporting both growth mindset and motivation.
+- **Bloom's level:** Apply (verb: *give*)
+- **Exercise:** Activity: Rewrite your praise — Bloom's level: Analyse
+- **Exercise:** Activity: Map the progress your learners miss — Bloom's level: Apply
 
 ## Exercises → Outcomes
 
-### Exercise: Rewrite your praise
-- **Bloom's level:** Apply (learner rewrites statements to shift from effort-praise to process-praise)
-- **Serves outcome 1:** Explain how growth mindset shapes learners' responses… — Outcome Bloom's: Understand
-- **Serves outcome 5:** Adjust how you frame challenges… — Outcome Bloom's: Apply
+### Exercise: Activity: Rewrite your praise
+- **Bloom's level:** Analyse (learners examine their praise statements, classify them, and rewrite)
+- **Serves outcome:** Outcome 1 (in-the-moment response) — Bloom's level: Apply
+- **Serves outcome:** Outcome 7 (feedback on work) — Bloom's level: Apply
 
-### Exercise: Design a productive failure moment
-- **Bloom's level:** Create (learner designs a new task and a debrief plan)
-- **Serves outcome 2:** Recognise when struggle and stress are productive… — Outcome Bloom's: Create
+### Exercise: Activity: Design a productive failure moment
+- **Bloom's level:** Create (learners design a task and plan the follow-up)
+- **Serves outcome:** Outcome 2 — Bloom's level: Apply
+- **Serves outcome:** Outcome 3 — Bloom's level: Create
 
-### Exercise: Map the progress your learners miss
-- **Bloom's level:** Apply (learner identifies moments and writes specific feedback sentences)
-- **Serves outcome 5:** Adjust how you frame challenges, respond to mistakes, and give feedback… — Outcome Bloom's: Apply
+### Exercise: Activity: Map the progress your learners miss
+- **Bloom's level:** Apply (learners write specific progress statements)
+- **Serves outcome:** Outcome 6 (in-the-moment behaviour) — Bloom's level: Apply
+- **Serves outcome:** Outcome 7 (feedback on work) — Bloom's level: Apply
 
-### Exercise: Reflection (growth mindset) — lines 76–77
-- **Bloom's level:** Analyse (learner analyses how a teacher promotes or undermines mindset)
-- **Serves outcome 1:** Explain how growth mindset shapes learners' responses… — Outcome Bloom's: Understand
+### Exercise: Reflection: growth mindset
+- **Bloom's level:** Understand (learners reflect on ways to promote growth vs fixed mindsets)
+- **Serves outcome:** Outcome 1 — Bloom's level: Apply (scaffolding)
 
-### Exercise: Reframe stress in your own words
-- **Bloom's level:** Apply (learner writes sentences to reframe stress in a specific training moment)
-- **Serves outcome 2:** Recognise when struggle and stress are productive… — Outcome Bloom's: Create
-- **Serves outcome 5:** Adjust how you frame challenges… — Outcome Bloom's: Apply
+### Exercise: Activity: Reframe stress in your own words
+- **Bloom's level:** Apply (learners write context-specific reframing language and plan behaviour changes)
+- **Serves outcome:** Outcome 2 — Bloom's level: Apply
 
-### Exercise: Audit your training for autonomy, competence, and relatedness
-- **Bloom's level:** Analyse (learner reviews existing training against SDT framework)
-- **Serves outcome 3:** Identify the three psychological needs… — Outcome Bloom's: Apply
+### Exercise: Activity: Audit your training for autonomy, competence, and relatedness
+- **Bloom's level:** Evaluate (learners evaluate training against three needs and recommend changes)
+- **Serves outcome:** Outcome 4 — Bloom's level: Apply
 
-### Exercise: Make the "why" visible
-- **Bloom's level:** Apply (learner writes a new opening that establishes relevance)
-- **Serves outcome 3:** Identify the three psychological needs… — Outcome Bloom's: Apply
+### Exercise: Activity: Make the "why" visible
+- **Bloom's level:** Create (learners write a relevance-focused opening for a topic)
+- **Serves outcome:** Outcome 4 — Bloom's level: Apply (addresses the perceived relevance component)
 
-### Exercise: Reflection (motivation) — lines 149–151
-- **Bloom's level:** Analyse (learner analyses their own course for motivation drivers and choices)
-- **Serves outcome 3:** Identify the three psychological needs… — Outcome Bloom's: Apply
+### Exercise: Reflection: motivation
+- **Bloom's level:** Understand (learners reflect on motivation drivers and choices)
+- **Serves outcome:** Outcome 4 — Bloom's level: Apply (scaffolding)
 
-### Exercise: Analyse the case study
-- **Bloom's level:** Analyse (learner connects case study details to chapter concepts)
-- **Serves outcome 4:** Describe practical steps for building psychological safety… — Outcome Bloom's: Understand
+### Exercise: Activity: Analyse the case study
+- **Bloom's level:** Analyse (learners connect case study to chapter concepts)
+- **Serves outcome:** Outcome 5 (environment design) — Bloom's level: Create
+- **Serves outcome:** Outcome 6 (in-the-moment behaviour) — Bloom's level: Apply
 
-### Exercise: Review your framing
-- **Bloom's level:** Analyse (learner audits materials for evaluative vs learning-oriented language)
-- **Serves outcome 4:** Describe practical steps for building psychological safety… — Outcome Bloom's: Understand
-- **Serves outcome 5:** Adjust how you frame challenges… — Outcome Bloom's: Apply
+### Exercise: Activity: Review your framing
+- **Bloom's level:** Analyse (learners examine materials for evaluative language and rewrite)
+- **Serves outcome:** Outcome 5 (environment design) — Bloom's level: Create
+- **Serves outcome:** Outcome 6 (in-the-moment behaviour) — Bloom's level: Apply
 
-### Exercise: Plan your response to the first mistake
-- **Bloom's level:** Create (learner designs planned responses for two scenarios)
-- **Serves outcome 4:** Describe practical steps for building psychological safety… — Outcome Bloom's: Understand
-- **Serves outcome 5:** Adjust how you frame challenges… — Outcome Bloom's: Apply
+### Exercise: Activity: Plan your response to the first mistake
+- **Bloom's level:** Create (learners write planned responses for two scenarios)
+- **Serves outcome:** Outcome 5 (environment design) — Bloom's level: Create
+- **Serves outcome:** Outcome 6 (in-the-moment behaviour) — Bloom's level: Apply
 
 ## Bloom's Alignment Issues
 
-### Outcome 1 (Understand) ↔ Exercises
-- **⚠️ EXERCISE EXCEEDS OUTCOME** — "Rewrite your praise" (Apply) exceeds "explain/distinguish" (Understand). Suggestion: level up Outcome 1 to Apply, or accept the stretch as deliberate reinforcement.
-- **⚠️ EXERCISE EXCEEDS OUTCOME** — "Reflection (growth mindset)" (Analyse) exceeds "explain/distinguish" (Understand). Same suggestion.
-
-### Outcome 2 (Create) ↔ Exercises
-- **⚠️ EXERCISE UNDERSHOOTS OUTCOME** — "Reframe stress in your own words" (Apply) undershoots "design activities" (Create). The stress-is-enhancing part of the outcome is only served at Apply level. Suggestion: add a design component to the stress exercise, or split the outcome so the stress portion targets Apply.
-
-### Outcome 3 (Apply) ↔ Exercises
-- **⚠️ EXERCISE EXCEEDS OUTCOME** — "Audit your training" (Analyse) exceeds "identify and apply" (Apply). Minor — Analyse is only one step above Apply. Acceptable stretch.
-
-### Outcome 4 (Understand) ↔ Exercises
-- **⚠️ EXERCISE EXCEEDS OUTCOME** — All three exercises (Analyse, Analyse, Create) exceed "describe" (Understand). The exercises are strong — the outcome verb is weak. Suggestion: level up from "Describe" to "Design" or "Apply."
-
-### Outcome 5 (Apply) ↔ Exercises
-- **⚠️ EXERCISE EXCEEDS OUTCOME** — "Review your framing" (Analyse) and "Plan your response to the first mistake" (Create) exceed "adjust" (Apply). Minor — good stretch. No action needed.
+- **⚠️ EXERCISE EXCEEDS OUTCOME** — "Rewrite your praise" (Analyse) exceeds Outcomes 1 and 7 (both Apply). Acceptable as productive stretch.
+- **⚠️ EXERCISE EXCEEDS OUTCOME** — "Audit your training" (Evaluate) exceeds Outcome 4 (Apply). Acceptable as productive stretch.
+- **⚠️ EXERCISE EXCEEDS OUTCOME** — "Design a productive failure moment" (Create) exceeds Outcome 2 (Apply). Acceptable — the exercise also serves Outcome 3 (Create) directly.
 
 ## Flags for Review
 
-### Bloom's level mismatches (action recommended)
+All previously flagged issues have been resolved:
+- ~~Flag 1: Outcome 2 verb too low~~ — Fixed: "Recognise" replaced with "Apply."
+- ~~Flag 2: "Make the why visible" near-orphan~~ — Fixed: Outcome 4 broadened to include perceived relevance.
+- ~~Flag 3: Outcomes 1 and 7 overlap~~ — Fixed: Outcome 1 scoped to in-the-moment response; Outcome 7 scoped to feedback on work.
+- ~~Flag 4: Outcomes 5 and 6 overlap~~ — Fixed: Outcome 5 scoped to environment-level design; Outcome 6 scoped to in-the-moment trainer behaviour.
 
-1. **Outcome 1 verb is too low.** The outcome says "Explain… and distinguish" (Understand), but both exercises ask learners to Apply or Analyse. **Suggestion:** Change to "Apply growth mindset principles when giving feedback to learners, distinguishing process-praise from effort-praise" — or similar Apply-level verb.
-
-2. **Outcome 2 is a compound outcome spanning two Bloom's levels.** "Recognise" (Understand) + "design" (Create) in the same outcome. The stress portion is only served at Apply, not Create. **Suggestion:** Either (a) split into two outcomes — one about recognising productive struggle/stress, one about designing productive failure activities — or (b) add a design element to the stress exercise.
-
-3. **Outcome 4 verb is too low.** "Describe practical steps" (Understand) is undercut by exercises that ask learners to Analyse and Create. **Suggestion:** Change to "Apply practical strategies for building a psychologically safe learning environment…" or "Design responses and framings that build psychological safety…"
-
-### No unmet outcomes
-All outcomes have at least one exercise.
-
-### No orphan exercises
-All exercises serve at least one outcome.
-
-### No vague verbs
-All outcome verbs are Bloom's-identifiable (explain, distinguish, recognise, design, identify, apply, describe, adjust).
-
-### Weak links
-
-4. **Outcome 2 + stress:** "Reframe stress in your own words" only asks learners to write reframing sentences (Apply). It does not ask them to design an activity that deliberately uses stress as a learning tool. The "design" part of the outcome is only met by the productive-failure exercise, not the stress side.
+Remaining minor notes (no action needed):
+- Reflections undershoot their outcomes (Understand vs Apply) — acceptable as scaffolding.
+- Several exercises exceed their outcomes' Bloom's levels — acceptable as productive stretch.

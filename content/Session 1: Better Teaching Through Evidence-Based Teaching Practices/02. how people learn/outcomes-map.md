@@ -2,121 +2,95 @@
 
 ## Outcomes → Exercises
 
-### Outcome 1: Explain how working memory and long-term memory interact, and why understanding something in a session doesn't guarantee learners will remember it later.
-- **Bloom's level:** Understand (verb: explain)
-- **Exercise:** Spot the one-shot concept — Bloom's level: Apply (identify a concept, then design a concrete addition)
-- **Exercise:** Chunk your content — Bloom's level: Apply (reorganise material into meaningful groups)
-- **Exercise:** Test yourself — Bloom's level: Remember (recall answers from memory)
+### Outcome 1: Explain how working memory and long-term memory interact, and apply this understanding to identify gaps in a course where learning may not stick.
+- **Bloom's level:** Understand (verb: *explain*) / Apply (verb: *apply*)
+- **Exercise:** Activity: Spot the one-shot concept — Bloom's level: Analyse
+- **Exercise:** Activity: Chunk your content — Bloom's level: Apply (partial link — chunking is a working memory concept but not explicitly named in the outcome)
 
 ### Outcome 2: Identify teaching practices that may create an illusion of competence in learners.
-- **Bloom's level:** Remember (verb: identify)
-- **Exercise:** Test yourself — Bloom's level: Remember (question 2 asks about understanding-first vs memorisation-first, which touches on illusion of competence indirectly)
-- **Weak link:** The "Test yourself" exercise only tangentially addresses illusion of competence. The prose explains the concept well, but no exercise asks learners to *identify* such practices in their own teaching.
-- **⚠️ WEAKLY MET** — no exercise directly asks learners to identify illusion-of-competence-inducing practices.
+- **Bloom's level:** Understand (verb: *identify*)
+- **Exercise:** Activity: Spot the illusion of competence — Bloom's level: Analyse
 
 ### Outcome 3: Describe how spaced repetition and retrieval practice strengthen long-term retention, and design activities that use both.
-- **Bloom's level:** Understand + Create (verbs: describe, design)
-- **Exercise:** Three questions, one concept — Bloom's level: Apply (write questions following a pattern)
-- **Exercise:** Map the repetition in your programme — Bloom's level: Analyse (audit existing programme for spacing)
-- **Exercise:** Design a retrieval moment — Bloom's level: Create (design a new retrieval activity)
+- **Bloom's level:** Understand (verb: *describe*) / Create (verb: *design*)
+- **Exercise:** Activity: Three questions, one concept — Bloom's level: Create
+- **Exercise:** Activity: Map the repetition in your programme — Bloom's level: Analyse
+- **Exercise:** Activity: Design a retrieval moment — Bloom's level: Create
+- **Exercise:** Activity: Test yourself — Bloom's level: Remember (meta-pedagogical demonstration)
 
 ### Outcome 4: Distinguish between the debunked "learning styles" model and the evidence-based benefits of multimedia learning.
-- **Bloom's level:** Analyse (verb: distinguish)
-- **Exercise:** Diversify your delivery — Bloom's level: Apply/Create (brainstorm two new formats for a concept)
+- **Bloom's level:** Analyse (verb: *distinguish*)
+- **Exercise:** Activity: Diversify your delivery — Bloom's level: Create
 
-### Outcome 5: Recognise when memorisation is the right starting point and when leading with understanding is more effective.
-- **Bloom's level:** Understand (verb: recognise)
-- **Exercise:** Memorisation vs. understanding in your own course — Bloom's level: Analyse (compare two question types for the same concept)
-- **Exercise:** Memorisation audit — Bloom's level: Analyse/Evaluate (review course content, judge where memorisation is genuinely necessary, sketch a plan)
+### Outcome 5: Apply the zone of proximal development to evaluate whether course exercises are appropriately challenging for the target audience.
+- **Bloom's level:** Apply (verb: *apply*) / Evaluate (verb: *evaluate*)
+- **Exercise:** Activity: Calibrate the challenge — Bloom's level: Evaluate
+
+### Outcome 6: Evaluate when memorisation is the right starting point and when leading with understanding is more effective.
+- **Bloom's level:** Evaluate (verb: *evaluate*)
+- **Exercise:** Activity: Memorisation vs. understanding in your own course — Bloom's level: Apply
+- **Exercise:** Activity: Memorisation audit — Bloom's level: Analyse
 
 ## Exercises → Outcomes
 
-### Exercise: Memorisation vs. understanding in your own course
-- **Bloom's level:** Analyse (learner compares two question types and evaluates which is more revealing)
-- **Serves outcome:** Outcome 5 (recognise when memorisation vs understanding is appropriate)
+### Exercise: Activity: Memorisation vs. understanding in your own course
+- **Bloom's level:** Apply (learners write two questions and compare them)
+- **Serves outcome:** Outcome 6 — Bloom's level: Evaluate
 
-### Exercise: Three questions, one concept
-- **Bloom's level:** Apply (write three questions following a given pattern)
-- **Serves outcome:** Outcome 3 (design activities using spaced repetition / retrieval)
+### Exercise: Activity: Three questions, one concept
+- **Bloom's level:** Create (learners produce three questions at different Bloom's levels)
+- **Serves outcome:** Outcome 3 — Bloom's level: Create
 
-### Exercise: Spot the one-shot concept
-- **Bloom's level:** Apply (identify a gap in their programme and propose a fix)
-- **Serves outcome:** Outcome 1 (working memory / long-term memory interaction)
+### Exercise: Activity: Spot the one-shot concept
+- **Bloom's level:** Analyse (learners identify a concept covered only once and propose a revisit strategy)
+- **Serves outcome:** Outcome 1 — Bloom's level: Apply
 
-### Exercise: Chunk your content
-- **Bloom's level:** Apply (reorganise existing material into meaningful chunks)
-- **Serves outcome:** Outcome 1 (working memory capacity and chunking)
+### Exercise: Activity: Chunk your content
+- **Bloom's level:** Apply (learners reorganise material into meaningful groups)
+- **Serves outcome:** Outcome 1 — Bloom's level: Apply (partial — chunking relates to working memory but is not named in the outcome)
 
-### Exercise: Map the repetition in your programme
-- **Bloom's level:** Analyse (audit programme structure for spacing)
-- **Serves outcome:** Outcome 3 (spaced repetition and retrieval practice)
+### Exercise: Activity: Map the repetition in your programme
+- **Bloom's level:** Analyse (learners map encounters with key concepts and identify gaps)
+- **Serves outcome:** Outcome 3 — Bloom's level: Create
 
-### Exercise: Test yourself
-- **Bloom's level:** Remember (recall facts from earlier in the chapter)
-- **Serves outcome:** Outcome 1 (weakly — tests recall of working memory concepts)
-- **Serves outcome:** Outcome 2 (weakly — demonstrates illusion of competence experientially, but doesn't ask learner to identify practices)
+### Exercise: Activity: Spot the illusion of competence
+- **Bloom's level:** Analyse (learners identify moments of false confidence and propose changes)
+- **Serves outcome:** Outcome 2 — Bloom's level: Understand
 
-### Exercise: Design a retrieval moment
-- **Bloom's level:** Create (design a new activity)
-- **Serves outcome:** Outcome 3 (design activities using retrieval practice)
+### Exercise: Activity: Test yourself
+- **Bloom's level:** Remember (retrieval practice demonstration)
+- **Serves outcome:** Outcomes 1, 2, 3 — all loosely, as a meta-pedagogical demonstration
 
-### Exercise: Calibrate the challenge
-- **Bloom's level:** Evaluate (assess whether an exercise is appropriately challenging)
-- **⚠️ ORPHAN** — this exercise addresses the zone of proximal development, which is not represented in any listed learning outcome.
+### Exercise: Activity: Design a retrieval moment
+- **Bloom's level:** Create (learners produce a ready-to-use retrieval activity)
+- **Serves outcome:** Outcome 3 — Bloom's level: Create
 
-### Exercise: Diversify your delivery
-- **Bloom's level:** Apply/Create (brainstorm new delivery formats)
-- **Serves outcome:** Outcome 4 (multimedia learning vs learning styles)
+### Exercise: Activity: Diversify your delivery
+- **Bloom's level:** Create (learners brainstorm new formats and articulate rationale)
+- **Serves outcome:** Outcome 4 — Bloom's level: Analyse
 
-### Exercise: Memorisation audit
-- **Bloom's level:** Analyse/Evaluate (judge where memorisation is necessary, sketch a plan)
-- **Serves outcome:** Outcome 5 (recognise when memorisation is the right starting point)
+### Exercise: Activity: Calibrate the challenge
+- **Bloom's level:** Evaluate (learners assess difficulty and propose adjustments)
+- **Serves outcome:** Outcome 5 — Bloom's level: Evaluate
+
+### Exercise: Activity: Memorisation audit
+- **Bloom's level:** Analyse (learners identify where memorisation is necessary and sketch a plan)
+- **Serves outcome:** Outcome 6 — Bloom's level: Evaluate
 
 ## Bloom's Alignment Issues
 
-### Outcome 1 (Understand) ↔ Exercise: Spot the one-shot concept (Apply)
-- **⚠️ EXERCISE EXCEEDS OUTCOME** — exercise asks learners to apply (propose a concrete addition to their programme), but outcome only requires them to explain. Suggestion: level up the outcome verb to include application, or accept this as deliberate stretch.
-
-### Outcome 1 (Understand) ↔ Exercise: Chunk your content (Apply)
-- **⚠️ EXERCISE EXCEEDS OUTCOME** — exercise asks learners to reorganise material (apply), but the outcome only says "explain." Suggestion: same as above.
-
-### Outcome 2 (Remember) ↔ Exercise: Test yourself (Remember)
-- Alignment is fine at Bloom's level, but the exercise only weakly addresses the outcome content.
-
-### Outcome 3 (Understand + Create) ↔ Exercises
-- "Three questions, one concept" (Apply) — aligns with the "design" part of the outcome.
-- "Map the repetition" (Analyse) — exceeds the "describe" part. Fine as deliberate stretch.
-- "Design a retrieval moment" (Create) — matches the "design" part perfectly.
-- Overall alignment is good.
-
-### Outcome 4 (Analyse) ↔ Exercise: Diversify your delivery (Apply/Create)
-- The exercise asks learners to *create* new delivery approaches, but the outcome asks them to *distinguish* between learning styles and multimedia learning. The exercise doesn't actually test the ability to distinguish — it assumes the reader already got that from the prose.
-- **⚠️ EXERCISE DOES NOT TEST THE OUTCOME VERB** — "Diversify your delivery" tests application/creation, not the ability to distinguish. A learner could complete this exercise without being able to articulate why learning styles are wrong.
-
-### Outcome 5 (Understand) ↔ Exercise: Memorisation vs. understanding (Analyse)
-- **⚠️ EXERCISE EXCEEDS OUTCOME** — exercise asks learners to analyse and compare, but the outcome only says "recognise." Suggestion: level up the outcome or accept as stretch.
-
-### Outcome 5 (Understand) ↔ Exercise: Memorisation audit (Analyse/Evaluate)
-- **⚠️ EXERCISE EXCEEDS OUTCOME** — same pattern. Exercise demands evaluation, outcome says "recognise."
+- **⚠️ EXERCISE EXCEEDS OUTCOME** — "Spot the illusion of competence" (Analyse) exceeds Outcome 2 (Understand). The exercise asks learners to analyse their course and propose changes, not just identify practices. Suggestion: change "Identify" to "Analyse."
+- **⚠️ EXERCISE EXCEEDS OUTCOME** — "Diversify your delivery" (Create) exceeds Outcome 4 (Analyse). The exercise asks learners to produce new formats and evaluate their reasoning. Suggestion: expand the outcome to include application, or accept as productive stretch.
+- **⚠️ EXERCISE UNDERSHOOTS OUTCOME** — "Memorisation vs. understanding in your own course" (Apply) undershoots Outcome 6 (Evaluate). Learners compare questions but are never asked to judge which approach is more appropriate. Suggestion: add a judgement prompt.
+- **⚠️ EXERCISE UNDERSHOOTS OUTCOME** — "Memorisation audit" (Analyse) undershoots Outcome 6 (Evaluate). Learners identify and plan but are never asked to justify their choices. Suggestion: add a justification prompt.
 
 ## Flags for Review
 
-### Unmet / weakly met outcomes
-
-1. **Outcome 2 (Identify teaching practices that may create an illusion of competence)** — ⚠️ WEAKLY MET. The "Test yourself" exercise lets learners *experience* the illusion of competence, but no exercise asks them to *identify* such practices in their own teaching context. **Suggestion:** Add a short activity after the "Anti-pattern: reading and re-reading" section, e.g.: "Review your current course. Are there any points where learners might feel confident they've learned something but haven't actually been tested on it? Identify two moments where an illusion of competence could form, and note what you could change."
-
-### Orphan exercises
-
-2. **Calibrate the challenge** — ⚠️ ORPHAN. This exercise relates to the zone of proximal development, which is covered in the prose but not represented in any learning outcome. **Suggestion:** Either add a learning outcome about the ZPD (e.g., "Apply the zone of proximal development to evaluate whether course exercises are appropriately challenging"), or accept that this exercise supports general teaching skill without needing a dedicated outcome.
-
-### Bloom's level mismatches
-
-3. **Outcome 1 uses "explain" (Understand) but its exercises operate at Apply.** The exercises are good — the outcome verb could be levelled up. **Suggestion:** Change to "Explain how working memory and long-term memory interact, and **apply this understanding to identify** why..." or split into two outcomes.
-
-4. **Outcome 4 uses "distinguish" (Analyse) but its exercise ("Diversify your delivery") tests Apply/Create, not the ability to distinguish.** **Suggestion:** Either (a) add a brief exercise that directly asks learners to explain what's wrong with learning styles and what the evidence actually supports, or (b) slightly rework "Diversify your delivery" to include a prompt like "Before you brainstorm, write one sentence explaining why you're diversifying media — and why this is different from catering to learning styles."
-
-5. **Outcome 5 uses "recognise" (Understand) but its exercises operate at Analyse/Evaluate.** **Suggestion:** Level up the outcome verb to "evaluate" or "judge," e.g.: "Evaluate when memorisation is the right starting point and when leading with understanding is more effective."
-
-### Vague verbs
-
-6. **Outcome 5: "Recognise"** — borderline. "Recognise" can be vague (it sometimes means "be aware of" rather than a testable action). In context it's closer to "judge" or "determine." **Suggestion:** Replace with "Determine" or "Evaluate" to make it more actionable and to match the exercises.
+- **Flag 1: Outcome 2 verb too low.** "Identify" is Understand level, but the matching exercise operates at Analyse. Suggestion: change to "Analyse teaching practices that may create an illusion of competence in learners and propose ways to address them."
+- **Flag 2: Exercises undershoot Outcome 6.** Both "Memorisation vs. understanding" (Apply) and "Memorisation audit" (Analyse) fall short of Evaluate. Suggestion: add judgement/justification prompts to the exercises, or lower the outcome.
+- **Flag 3: Exercise exceeds Outcome 4.** "Diversify your delivery" (Create) exceeds Outcome 4 (Analyse). Suggestion: expand the outcome to include the application component, e.g. "Distinguish between the debunked 'learning styles' model and the evidence-based benefits of multimedia learning, and apply multimedia principles to diversify delivery in your own course."
+- **Flag 4 (minor): Partial link — "Chunk your content" to Outcome 1.** The connection is reasonable but indirect. Optional: add "including chunking" to Outcome 1.
+- **Flag 5 (minor): "Test yourself" operates at Remember level.** Acceptable as a meta-pedagogical demonstration; other exercises carry the weight.
+- **No vague verbs** (apart from Outcome 2's "identify" noted above).
+- **No unmet outcomes.** Every outcome has at least one exercise.
+- **No orphan exercises.** All exercises serve at least one outcome.
