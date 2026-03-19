@@ -61,4 +61,5 @@ Make a map of outcomes, exercises and their bloom levels and make sure there are
 
 Input: workshop-activities.md
 Output: workshop-activities.md
-
+Look over all the activities and see which outcomes they relate to, and at what Bloom level. 
+Try to make sure that there are workshop activities that address each outcome

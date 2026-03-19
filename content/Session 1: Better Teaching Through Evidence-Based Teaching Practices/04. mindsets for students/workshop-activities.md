@@ -130,3 +130,25 @@ These activities are designed for a facilitator running a live workshop based on
 - The honesty step (writing what you'd *actually* say) is important. Most people's instinctive response is either too blunt ("No, that's wrong") or too vague ("Good try!"). Neither helps.
 - Some participants will write something close to perfect on the first try. Push them: "Now imagine you're tired, behind schedule, and this is the third wrong answer in a row. What comes out then?" The goal is to plan for the real moment, not the ideal one.
 - This activity connects growth mindset, psychological safety, and motivation in a single practical skill. Name that connection in the debrief — responding well to mistakes is where all three come together.
+
+---
+
+## Activity 7: Feedback Rewrite
+
+**Time:** 15 minutes
+**Group size:** Pairs
+**Materials:** None (pen and paper optional)
+
+### Instructions
+
+1. Each participant writes a piece of feedback they might give on a learner's completed exercise or assignment — something they've actually said or written before, or something typical in their training context. Give them 2 minutes.
+2. In pairs, each person shares their feedback. Their partner classifies it: does it focus on the *outcome* ("This is correct/incorrect"), the *person* ("You're really good at this"), or the *process* ("You structured your approach by starting with X, which helped you catch Y")?
+3. Together, the pair rewrites each piece of feedback so it names a specific strategy the learner used and connects it to progress. If the original feedback was about a mistake, the rewrite should identify what the learner *did* do effectively and what specific next step would help.
+4. Bring the group back together. Ask two or three pairs to share a before-and-after. Ask: "What did you have to know about the learner's work to write process-focused feedback? What happens when you don't actually know what strategy they used?"
+5. Draw out the key insight: process-focused feedback requires you to *watch how learners work*, not just evaluate what they produce. If you can't name a strategy, you need to observe more closely — or ask the learner to walk you through their approach.
+
+### Facilitator notes
+
+- This activity parallels Activity 1 (Praise Makeover) but targets a different moment — feedback after work is done, rather than encouragement during work. Name the distinction so participants see why both matter.
+- The hardest part is step 3: rewriting feedback about mistakes. Participants tend to default to sandwiching ("This was wrong, but good effort"). Push them toward naming what *did* work and giving a concrete next step.
+- If participants say they don't give written feedback in their training, broaden it: verbal feedback after a group exercise, comments during a code review, responses to a learner presenting their work. The skill is the same.

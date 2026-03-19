@@ -113,7 +113,27 @@ This is where participants move from analysis to creation. Push groups past thei
    - "Why are we being tested if this isn't graded?"
 3. The facilitator responds to the pushback. Then partners swap roles and repeat with a different reaction.
 4. Bring the group together. Ask: what worked? What language helped? What made things worse? Collect the best phrases and approaches on a shared board.
+5. Using the phrases and approaches the group just collected, each participant writes their own 2–3 sentence assessment introduction — the one they'd actually use with their learners. They share it with their partner for a quick "would this reassure me?" check.
 
 ### Facilitator notes
 
-This activity builds a practical script participants can take home. The sceptical-learner reactions are deliberately challenging — they represent real responses. Watch for facilitators who over-explain or get defensive; gently redirect them toward simpler, more honest language. The debrief is the most valuable part: capture the phrases that resonated and make sure everyone leaves with at least one they'd actually use. If the group is large, have a few pairs demonstrate for the room before the debrief.
+This activity builds a practical script participants can take home. The sceptical-learner reactions are deliberately challenging — they represent real responses. Watch for facilitators who over-explain or get defensive; gently redirect them toward simpler, more honest language. The debrief is valuable, but the written draft in step 5 is what participants will actually take away — make sure you leave enough time for it. If the group is large, have a few pairs demonstrate for the room before the debrief.
+
+---
+
+## Activity 6: Where Do Your Checkpoints Go?
+
+**Time:** 10 minutes
+**Group size:** Pairs
+**Materials:** Paper or sticky notes
+
+### Instructions
+
+1. Each participant sketches a rough timeline of their training programme — even a simple list of sessions or weeks is fine.
+2. They mark where they currently assess learners (if at all). Many will find that assessment clusters at the end, or doesn't exist at all.
+3. Their partner suggests two additional low-stakes checkpoint moments and explains why those points would catch misunderstandings early — before they compound.
+4. Quick share: one or two pairs volunteer their before-and-after timeline for the room.
+
+### Facilitator notes
+
+This activity works best after participants have already seen the evidence on spacing and low-stakes assessment from the chapter. The point isn't to produce a perfect assessment plan — it's to shift the habit of thinking about assessment as something that happens at the end. If participants don't yet have a training programme to work with, they can use a hypothetical one (e.g., "a five-session workshop on data analysis"). Keep the sharing round brief — the value is in the pair conversation, not the presentations.

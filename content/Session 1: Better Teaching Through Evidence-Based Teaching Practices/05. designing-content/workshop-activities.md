@@ -118,7 +118,8 @@ This activity works because it externalises a decision that trainers usually ago
 3. Participants find a partner who chose a *different* pitfall (they announce their choice by holding up one to five fingers corresponding to the list). Pairs have eight minutes to do the following:
    - Describe a specific moment where that pitfall showed up in their own work.
    - Brainstorm one concrete change they could make to their current session to address it.
-4. Whole-group debrief (five minutes). Ask for a show of hands: which pitfall was the most common? Invite two or three participants to share the concrete change they identified.
+   - Test the fix: *"Does this change actually make your session more focused on what learners need to be able to do — or does it just move the problem somewhere else?"* Pairs should check their proposed change against the session's objectives, not just against the pitfall.
+4. Whole-group debrief (five minutes). Ask for a show of hands: which pitfall was the most common? Invite two or three participants to share the concrete change they identified and whether it held up when they tested it against their objectives.
 
 ### Facilitator notes
 

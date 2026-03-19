@@ -89,7 +89,7 @@ These activities are designed for a facilitator running a live workshop based on
 
 ## Activity 5: Diagnose Before You Prescribe — Role Play
 
-**Time:** 25 minutes
+**Time:** 30 minutes
 **Group size:** Trios
 **Materials:** None
 
@@ -100,7 +100,8 @@ These activities are designed for a facilitator running a live workshop based on
 3. The Teacher's job is to diagnose where the Learner's understanding breaks down — without jumping to a solution. They should break the concept into smaller pieces, ask questions about each piece, and locate the specific point of confusion. Only after identifying the gap should they try to address it.
 4. The Observer watches silently and notes: *Did the Teacher ask before telling? Where did they jump ahead? Did they check whether the fix actually worked?*
 5. After five minutes, stop the role play. The Observer shares their notes (two minutes). Then rotate roles so everyone gets a turn as Teacher.
-6. After all three rounds, debrief as a whole group: *What was hardest about diagnosing before prescribing? What did you notice about your own instincts?*
+6. After all three rounds, each trio spends five minutes designing their own simple diagnostic protocol: a short sequence of three to five questions or steps they would use to locate a learner's point of confusion before intervening. They should write it down in plain language — something they could actually use next time they are helping a struggling learner.
+7. Bring the group back together to debrief. Ask one or two trios to walk the room through their protocol. Then broaden the discussion: *What was hardest about diagnosing before prescribing? What did you include in your protocol that you would not have thought of before the role play?*
 
 ### Facilitator notes
 

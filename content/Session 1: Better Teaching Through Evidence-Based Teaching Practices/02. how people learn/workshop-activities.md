@@ -14,13 +14,15 @@ These activities are designed for a facilitator running a live workshop based on
 2. After two minutes, ask them to put the passage face-down (or close it).
 3. Give each person one minute to write down everything they can remember from the passage.
 4. Now have them pair up and compare: what did they each capture? What did they miss? Have them look back at the passage and identify gaps.
-5. Debrief as a whole group. Ask: "How confident were you that you understood the passage while reading it? How did that compare to what you could actually recall?" Draw the connection to the illusion of competence — recognition feels like knowledge, but recall tells the real story.
+5. Still in pairs, ask: "Think about your own teaching or training. Where might your learners feel confident they understand something — but actually couldn't retrieve or apply it if tested? What are you doing (or not doing) that might create that false sense of security?" Have each pair identify one specific practice that might create an illusion of competence — for example, providing slides with all the answers, letting learners re-read instead of recall, or relying only on recognition-based checks like "Does everyone follow?"
+6. Debrief as a whole group. Ask: "How confident were you that you understood the passage while reading it? How did that compare to what you could actually recall?" Draw the connection to the illusion of competence — recognition feels like knowledge, but recall tells the real story. Then collect the teaching practices pairs identified. Ask: "What patterns do you see? Which of these practices are most common in your own courses?"
 
 ### Facilitator notes
 
 - The passage should be dense enough that no one captures everything, but short enough to read in two minutes (roughly 150–200 words works well).
 - Some participants will feel uncomfortable about gaps in their recall. Frame this positively: the gap itself is the learning moment. The act of trying to recall just strengthened their memory.
-- If time is short, skip the pair discussion and go straight from individual recall to the whole-group debrief.
+- If time is short, you can skip the pair comparison in step 4 and go straight from individual recall to the debrief — but keep step 5 (identifying teaching practices), as this is where the activity connects personal experience to course design.
+- Optional extension question for the debrief: "For the concept you just tried to recall — would memorisation have been the right first step, or would a different approach have worked better?" This opens a brief discussion about when rote recall matters and when understanding-first is more effective.
 
 ---
 
@@ -37,6 +39,7 @@ These activities are designed for a facilitator running a live workshop based on
 3. Each group sticks their questions on the wall. Do a brief gallery walk — everyone reads the other groups' questions (three minutes).
 4. Bring the group back together. Ask: "Which type of question was hardest to write? Which would tell you the most about whether a learner has the capabilities you want them to have by the end of your course?" Discuss as a whole group.
 5. Then pose the challenge: "What if you started with the application question instead of the recall question? How would that change the learning experience?" Let groups discuss briefly before sharing out.
+6. Finally, point out that what they've just created — questions at different cognitive levels — are ready-made retrieval practice tools. Ask: "When in your programme could you use these questions to bring this concept back? Could you use the recall question in session two, the connection question in session four, and the application question in a final activity?" Connect this to spaced repetition: the same concept, revisited at increasing depth over time.
 
 ### Facilitator notes
 
